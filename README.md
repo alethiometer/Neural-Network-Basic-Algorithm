@@ -2,7 +2,7 @@
 
 The program implements JavaScript as a personal tutorial on basic forward and backward propagation.
 
-Program credi: Sofia Wawrzyniak.
+Programmed in full by Sofia Wawrzyniak.
 
 ## Overview
 
