@@ -16,6 +16,8 @@ There will be two input neurons in the input layer, two hidden neurons in the hi
 
 ## Note
 
-Certain numerical values are used as the starting inputs and weights as used by Matt Mazur in his backpropagation tutorial. 
+Certain numerical values are used as the starting inputs and weights as used by Matt Mazur in his backpropagation tutorial. [1] 
 
 However, these values are only used to ensure every formula is written correctly and the results are accurate, so that it may be reassured this program functions properly. All algorithms and abstracts were independently developed so that I could arrive at the desired targets.
+
+[1] https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
