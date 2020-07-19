@@ -2,6 +2,8 @@
 
 The program implements JavaScript as a personal tutorial on basic forward and backward propagation.
 
+Program credi: Sofia Wawrzyniak.
+
 ## Overview
 
 This program serves to represent a basic neural network using supervised inputs 0.05 and 0.10. 
