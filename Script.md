@@ -1,12 +1,12 @@
 # Script
 
-Hello! This program is meant to simulate a very basic neural network. 
+This program is meant to simulate a very basic neural network. 
 
-But what is a neural network?
+What is a neural network?
 
-Great question! A neural network works much like the neurons of the human brain and nervous system; sensory input whether by taste, touch, sound, sight, or smell stimulates a certain body response. In a similar way, a computational neural network receives certain input and produces a desired. However, there is one fundamental difference. Our sensory input often renders an involuntary body response, whereas the computer has no idea how to respond to certain input! That's why we have machine learning, which we use to train the computer so we arrive at a desired output. At the heart of a neural network lies three types of layers: the input, hidden, and output layers. These are organized in that order from left to right. Each of these layers contains several \"neurons,\" and for this program, each layer has two neurons. Each neuron of the input layer is linked to each neuron of the hidden layer, and each neuron of the hidden layer is linked to each neuoron of the output layer. 
+A neural network works much like the neurons of the human brain and nervous system; sensory input whether by taste, touch, sound, sight, or smell stimulates a certain body response. In a similar way, a computational neural network receives certain input and produces a desired. However, there is one fundamental difference. Our sensory input often renders an involuntary body response, whereas the computer has no idea how to respond to certain input! That's why we have machine learning, which we use to train the computer so we arrive at a desired output. At the heart of a neural network lies three types of layers: the input, hidden, and output layers. These are organized in that order from left to right. Each of these layers contains several \"neurons,\" and for this program, each layer has two neurons. Each neuron of the input layer is linked to each neuron of the hidden layer, and each neuron of the hidden layer is linked to each neuoron of the output layer. 
 
-But what exactly do we mean by link? 
+What exactly do we mean by link? 
 
 A link is represented by a numerical value we call a weight. In this program, the weights are initially set to somewhat random values. 
 
