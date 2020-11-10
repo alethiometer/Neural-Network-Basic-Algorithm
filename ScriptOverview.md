@@ -1,4 +1,4 @@
-# Script
+# Script Overview
 
 This program is meant to simulate a very basic neural network. 
 
